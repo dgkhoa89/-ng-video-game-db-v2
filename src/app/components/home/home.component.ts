@@ -35,6 +35,7 @@ export class HomeComponent implements OnInit {
   }
 
   openGameDetails(game : any){
-
+    console.log('open details');
+    
   }
 }
