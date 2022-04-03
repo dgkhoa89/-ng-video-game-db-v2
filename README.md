@@ -8,3 +8,5 @@ ng add @angular/material
 
 # install angular gauge
 npm i angular-gauge
+
+# note about Httpinterceptor
