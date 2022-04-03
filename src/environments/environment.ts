@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'localhost:4200'
+  baseUrl: 'https://api.rawg.io/api'
 };
 
 /*
