@@ -14,5 +14,3 @@ npm i angular-gauge
 # make sure understand the flow of code
 
 # subscribe and Unsubcribe to prevent leaking data
-
-# test the revert
