@@ -10,3 +10,5 @@ ng add @angular/material
 npm i angular-gauge
 
 # note about Httpinterceptor
+
+# make sure understand the flow of code
