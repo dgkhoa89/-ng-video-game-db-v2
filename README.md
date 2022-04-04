@@ -12,3 +12,5 @@ npm i angular-gauge
 # note about Httpinterceptor
 
 # make sure understand the flow of code
+
+# subscribe and Unsubcribe to prevent leaking data
